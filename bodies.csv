@@ -1,0 +1,26 @@
+Body,Type,Speed,Acceleration,Weight,Handling,Traction,Mini Turbo
+Standard Kart,Kart,0,0,0,0,0,0
+Prancer,Kart,0,0,0,0,0,0
+Cat Cruiser,Kart,0,0,0,0,0,0
+Sneeker,Kart,0,0,0,0,0,0
+Gold Standard,Kart,0.5,-0.25,0.25,0,-1,-0.5
+Mach 8,Kart,0.5,-0.25,0.25,0,-1,-0.5
+Circuit Special,Kart,0.5,-0.25,0.25,0,-1,-0.5
+Sports Coupe,Kart,0.5,-0.25,0.25,0,-1,-0.5
+Bandwagon,Kart,0,-0.5,0.5,-0.5,0.5,-0.75
+TriSpeeder,Kart,0,-0.5,0.5,-0.5,0.5,-0.75
+Steel Driver,Kart,0,-0.5,0.5,-0.5,0.5,-0.75
+Biddybuggy,Kart,-0.75,1.25,-0.5,0.5,-0.25,1
+Landship,Kart,-0.75,1.25,-0.5,0.5,-0.25,1
+Pipe Frame,Kart,0,0.25,0.5,0.5,-0.5,0.25
+The Duke,Bike,0,0,0,0,0,0
+Mr. Scooty,Bike,-0.75,1.25,-0.5,0.5,-0.25,1
+Standard Bike,Bike,0,0.25,0.5,0.5,-0.5,0.25
+Flame Ride,Bike,0,0.25,0.5,0.5,-0.5,0.25
+Varmit,Bike,0,0.25,0.5,0.5,-0.5,0.25
+Sports Bike,Bike,0,0.75,-0.25,0.75,-1.25,0.5
+Jet Bike,Bike,0,0.75,-0.25,0.75,-1.25,0.5
+Comet,Bike,0,0.75,-0.25,0.75,-1.25,0.5
+Yoshi Bike,Bike,0,0.75,-0.25,0.75,-1.25,0.5
+Teddy Buggy,ATV,0,0,0,0,0,0
+Wild Wiggler,ATV,0,0.25,0.5,0.5,-0.5,0.25
